@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_pahlawan"
+        android:title="data pahlawan"
+        android:icon="@drawable/pahlawan"
+        app:showAsAction="ifRoom"
+        />
+    <item
+        android:id="@+id/menu_balok"
+        android:title="perhitungan volume"
+        android:icon="@drawable/perhitungan_balok"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>
